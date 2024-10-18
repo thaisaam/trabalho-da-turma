@@ -1,0 +1,4 @@
+Descrição: celular, 
+Valor: 1500.00,
+Quantidade: 100.
+
